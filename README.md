@@ -1,3 +1,4 @@
 Changed with GitTortoise!
-second conflict!
+Find the dot!
+Say hello!
 
